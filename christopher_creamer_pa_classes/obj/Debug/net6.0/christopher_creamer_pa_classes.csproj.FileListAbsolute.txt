@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\bin\Debug\net6.0\christopher_creamer_pa_classes.exe
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\bin\Debug\net6.0\christopher_creamer_pa_classes.deps.json
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\bin\Debug\net6.0\christopher_creamer_pa_classes.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\bin\Debug\net6.0\christopher_creamer_pa_classes.dll
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\bin\Debug\net6.0\christopher_creamer_pa_classes.pdb
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\christopher_creamer_pa_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\christopher_creamer_pa_classes.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\christopher_creamer_pa_classes.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\christopher_creamer_pa_classes.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\christopher_creamer_pa_classes.dll
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\refint\christopher_creamer_pa_classes.dll
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\christopher_creamer_pa_classes.pdb
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\christopher_creamer_pa_classes.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_classes\obj\Debug\net6.0\ref\christopher_creamer_pa_classes.dll
