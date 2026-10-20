@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "christopher_creamer_pa_smallest_number/1.0.0": {
+        "runtime": {
+          "christopher_creamer_pa_smallest_number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "christopher_creamer_pa_smallest_number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

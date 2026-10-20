@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\bin\Debug\net6.0\christopher_creamer_pa_smallest_number.exe
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\bin\Debug\net6.0\christopher_creamer_pa_smallest_number.deps.json
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\bin\Debug\net6.0\christopher_creamer_pa_smallest_number.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\bin\Debug\net6.0\christopher_creamer_pa_smallest_number.dll
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\bin\Debug\net6.0\christopher_creamer_pa_smallest_number.pdb
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\christopher_creamer_pa_smallest_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\christopher_creamer_pa_smallest_number.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\christopher_creamer_pa_smallest_number.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\christopher_creamer_pa_smallest_number.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\christopher_creamer_pa_smallest_number.dll
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\refint\christopher_creamer_pa_smallest_number.dll
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\christopher_creamer_pa_smallest_number.pdb
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\christopher_creamer_pa_smallest_number.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documents\ECPI\SDC220\SDC220 Source\christopher_creamer_pa_smallest_number\obj\Debug\net6.0\ref\christopher_creamer_pa_smallest_number.dll
